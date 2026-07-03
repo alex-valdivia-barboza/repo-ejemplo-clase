@@ -4,7 +4,7 @@
 
 Repositorio didáctico para aprender los conceptos básicos de GitHub y su conexión con Google Colab.
 
-> ⚠️ Reemplaza `TU-USUARIO` en el badge de arriba por tu usuario real de GitHub después de subir el repo.
+> ⚠️ Reemplaza `alex-valdivia-barboza` en el badge de arriba por tu usuario real de GitHub después de subir el repo.
 
 ## 📁 Estructura del repositorio
 
