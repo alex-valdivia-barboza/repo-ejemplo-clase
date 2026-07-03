@@ -1,6 +1,6 @@
 # 🎓 Repo Ejemplo — Clase GitHub + Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/repo-ejemplo-clase/blob/main/notebooks/01_hola_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex-valdivia-barboza/repo-ejemplo-clase/blob/main/notebooks/01_hola_colab.ipynb)
 
 Repositorio didáctico para aprender los conceptos básicos de GitHub y su conexión con Google Colab.
 
