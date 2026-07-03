@@ -26,7 +26,7 @@ repo-ejemplo-clase/
 1. **Abrir el notebook en Colab:** haz clic en el badge azul de arriba.
 2. **Clonar el repo dentro de Colab:** en una celda ejecuta
    ```
-   !git clone https://github.com/TU-USUARIO/repo-ejemplo-clase.git
+   !git clone https://github.com/alex-valdivia-barboza/repo-ejemplo-clase.git
    ```
 3. **Explorar los conceptos:** revisa `docs/conceptos.md`.
 
